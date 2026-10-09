@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: lightblue;
+      padding: 30px;
+    }
+    h1 {
+      color: darkblue;
+    }
+    button {
+      padding: 12px 20px;
+      background: darkblue;
+      color: white;
+      border: none;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Website</h1>
+  <p>Welcome to my first website!</p>
+  <button onclick="alert('Hello!')">Click Me</button>
+</body>
+</html>
